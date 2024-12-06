@@ -8,16 +8,21 @@ by Samira Silva
 *[Constributors](#constributors)
 *[Testing](#testing)
 
-##Description
+Description
 This is a sample READ ME using the terminal
-##Installatiom
+
+Installatiom
 use node index.js
-##Usage
-terminal read me 
-##Contrubutiors
-undefined
-##Testing
+
+Usage
+terminal read me
+
+Contrubutiors
+samira 
+
+Testing
 use node index.js or debug
+
 *Github - [DevSevenSeven](https://github.com/DevSevenSeven/)
 ## Lisence 
     Linsece undefined linsence
