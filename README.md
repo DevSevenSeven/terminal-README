@@ -8,19 +8,19 @@ by Samira Silva
 *[Constributors](#constributors)
 *[Testing](#testing)
 
-Description
+Description -
 This is a sample READ ME using the terminal
 
-Installatiom
+Installation -
 use node index.js
 
-Usage
+Usage -
 terminal read me
 
-Contrubutiors
-samira 
+Contrubutiors -
+Samira 
 
-Testing
+Testing -
 use node index.js or debug
 
 *Github - [DevSevenSeven](https://github.com/DevSevenSeven/)
