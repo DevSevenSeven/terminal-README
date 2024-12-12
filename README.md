@@ -26,3 +26,4 @@ use node index.js or debug
 *Github - [DevSevenSeven](https://github.com/DevSevenSeven/)
 ## Lisence 
     Linsece undefined linsence
+terminal_README_app https://youtu.be/3ZvVjZjWmLY?si=NtYH6vNf565rtbmf
